@@ -18,5 +18,3 @@
 также были добавлены поля date_create,date_modify чтобы отследить время создания и обновления user
 
 5. В /public/index.php производится просто подключение /App/routes/users.php и run()
-
-6. Все запросы проверял через Postman
